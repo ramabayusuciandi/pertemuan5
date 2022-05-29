@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pertemuan5</string>
+    <string name="error_invalid_password" />
+    <string name="error_field_required" />
+    <string name="error_invalid_email" />
+    <string name="prompt_email">Masukkan Email</string>
+    <string name="prompt_password">Masukkan Password</string>
+    <string name="action_sign_in_short" />
+    <string name="ation_sign_in">SIGN IN</string>
+</resources>
